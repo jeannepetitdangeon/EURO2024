@@ -1,6 +1,6 @@
 # EURO2024
 
-1. Data Collection:
+1. **Data Collection:**
    Using data from “archives”.
 2. Data Preprocessing:
    Clean, preprocess, and prepare the data for modeling. This may include handling missing values, encoding categorical variables, and normalizing or scaling numerical features. Create a target variable that represents the match outcomes (e.g., "win," "draw," "loss").
